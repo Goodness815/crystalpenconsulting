@@ -1,1 +1,1 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://sewogoodness.netlify.appDigiPen Consulting-free-multipurpose-bootstrap-template/
+The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://sewogoodness.netlify.appCrystalPen Consulting-free-multipurpose-bootstrap-template/

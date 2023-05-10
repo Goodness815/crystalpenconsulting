@@ -1,6 +1,6 @@
 /**
-* Template Name: DigiPen Consulting - v4.8.1
-* Template URL: https://sewogoodness.netlify.appDigiPen Consulting-free-multipurpose-bootstrap-template/
+* Template Name: CrystalPen Consulting - v4.8.1
+* Template URL: https://sewogoodness.netlify.appCrystalPen Consulting-free-multipurpose-bootstrap-template/
 * Author: Goodness.com
 * License: https://sewogoodness.netlify.applicense/
 */
